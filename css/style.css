@@ -1,0 +1,179 @@
+@import url("surfing.css");
+.container{
+	width:1200px;
+	margin:0 auto;
+}
+.nav{
+	height:100px;
+}
+.nav  img{
+	width:100px;
+	height:100px;
+	float:left;
+	margin-left:80px;
+}
+.nav ul{
+	float:right;
+	font-size:20px;
+	text-align:center;
+	line-height:100px;
+}
+.nav ul li{
+	display:inline-block;
+	margin-right:20px;
+}
+.nav ul li :hover{
+	color:#60c10a;
+}
+.barnav{
+	height:50px;
+	background:#e7f3f4;
+	font-size:30px;
+	text-indent:3em;
+	line-height:50px;
+	color:#b1753f;
+}
+.main{
+	height:500px;
+}
+.main  .left{
+	width:220px;
+	float:left;
+	background:red;
+}
+.main  .center{
+	height:500px;
+	float:left;
+	margin-right:-720px;
+}
+.main .center   p{	
+    font-size:18px;
+}
+.main .center ul li{
+	display:inline-block;
+	text-align:center;
+	font-size:15px;
+}
+.main  .right{
+	width:320px;
+	float:right;
+}
+.main  .right dt{
+	margin-top:10px;
+}
+.barnav-x{
+	height:50px;
+	background:#ffad7e;
+	font-size:30px;
+	text-indent:3em;
+	line-height:50px;
+	color:#b1753f;
+}
+.content{
+	height:400px;
+	clear:left;
+	border:2px solid #ffad7e;
+}
+.content   .text{
+	margin-left:40px;
+	font-size:30px;
+	line-height:80px;
+}
+.content   p{
+	margin-left:-15px;
+	font-size:18px;
+	text-indent:2em;
+	line-height:20px;
+}
+.content  img{
+	position:relative;
+	top:-100px;
+	left:1020px;
+}
+.content   .text-x{
+	
+	margin:-150px 0 0 40px;
+	font-size:30px;
+	line-height:80px;
+}
+.footer{
+	width:1200px;	
+	height:350px;
+	margin-top:40px;	
+}
+	
+.footer-font{
+	font-size:30px;
+	text-align:center;
+}	
+	.footer .content-z{
+	font-size:25px;
+	margin:40px 0px 0px 100px;
+}
+	.footer .people{
+	font-size:18px;
+	margin-top:30px;
+	margin-left:80px;
+	line-height:25px;
+}
+.footer .border{
+	border-bottom:2px solid black;
+	width:150px;
+	margin-left:80px;
+}
+	.footer .tab{
+	font-size:18px;
+	margin-left:80px;
+	line-height:25px;
+}
+.footer .border-nav{
+	border-bottom:2px solid black;
+	width:150px;
+	margin-left:80px;
+}
+.footer .msg{
+	font-size:18px;
+	margin-left:80px;
+	line-height:25px;
+}
+	.footer .service{
+	font-size:25px;
+	margin:-220px 0px 0px 450px;
+}
+	
+.footer .service-search{
+	font-size:19px;
+	margin:20px 0px 0px 450px;
+}
+.footer .service-form{
+	font-size:19px;
+	margin:20px 0px 0px 450px;
+}
+	
+.footer .service-label input{
+	margin:20px 0px 0px 450px;
+}
+	
+.footer .service-button input{
+	margin:10px 0px 0px 450px;
+}
+	
+.footer .banner-label input{
+	width:60px;
+	margin:10px 0px 0px 450px;
+	text-align:center;
+}
+.footer .download{
+	font-size:25px;	
+	margin:-225px 0px 0px 820px;
+}
+	
+.footer .download-list{
+	font-size:19px;
+	margin:20px 0px 0px 820px;
+}
+	
+.footer .download-bottom{
+	font-size:25px;
+	margin:45px 0px 0px 820px;
+}

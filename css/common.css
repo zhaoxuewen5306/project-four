@@ -1,0 +1,126 @@
+﻿.mg0{margin:0 auto;}
+.fl{float:left;}
+.flr{float:right;}
+.clearfloat{zoom:1;}
+.clearfloat:after{
+	display:block;
+	visibility:hidden;
+	clear:both;
+	content:"";
+	line-height:0;
+}
+.mgl-30{margin-left:30px;}
+.mgl-50{margin-left:50px;}
+.mgl--50{margin-left:-50px;}
+.mgl-100{margin-left:100px;}
+.mgl-170{margin-left:170px;}
+.mgl-320{margin-left:320px;}
+.mgl-470{margin-left:470px;}
+.mgr-170{margin-right:170px;}
+.mgt-30{margin-top:30px;}
+.mgt-50{margin-top:50px;}
+.mgt-150{margin-top:150px;}
+.mgt--10{margin-top:-10px;}
+.mgt--50{margin-top:-50px;}
+.mgt--150{margin-top:-150px;}
+.pdl-130{padding-left:130px;}
+.pdl-255{padding-left:255px;}
+.pdl-275{padding-left:275px;}
+.pdt-20{padding-top:20px;}
+.pdt-50{padding-top:50px;}
+.pdt-80{padding-top:80px;}
+.footer{
+		width:1200px;	
+		height:350px;
+		background:white;
+		margin-top:40px;
+}	
+.footer-font{
+		color:#D200D2;
+		font-size:30px;
+		font-weight:bolder;
+		text-align:center;
+}
+.content{
+		color:#46A3FF;
+		font-size:25px;
+		font-weight:bolder;
+		margin:20px 0px 0px 100px;
+}
+	
+.people{
+		font-size:18px;
+		font-weight:bolder;
+		margin-top:30px;
+		margin-left:80px;
+		line-height:25px;
+}
+.border{
+		border-bottom:2px solid black;
+		width:150px;
+		margin-left:80px;
+		}
+	
+.tab{
+		font-size:18px;
+		font-weight:bolder;
+		margin-left:80px;
+		line-height:25px;
+}
+.border-nav{
+		border-bottom:2px solid black;
+		width:150px;
+		margin-left:80px;
+}
+.msg{
+		font-size:18px;
+		font-weight:bolder;
+		margin-left:80px;
+		line-height:25px;
+}
+.service{
+		color:#46A3FF;
+		font-size:25px;
+		font-weight:bolder;
+		margin:-220px 0px 0px 450px;
+}
+.service-search{
+		font-size:19px;
+		font-weight:bolder;
+		margin:20px 0px 0px 450px;
+}
+.service-form{
+		font-size:19px;
+		font-weight:bolder;
+		margin:20px 0px 0px 450px;
+}
+.service-label input{
+		margin:20px 0px 0px 450px;
+}
+.service-button input{
+		margin:10px 0px 0px 450px;
+}
+.banner-label input{
+		width:60px;
+		background:red;
+		margin:10px 0px 0px 630px;
+		text-align:center;
+		border:1px solid red;
+}
+.download{
+		color:#46A3FF;
+		font-size:25px;
+		font-weight:bolder;
+		margin:-225px 0px 0px 820px;
+}
+	
+.download-list{
+		font-size:19px;
+		font-weight:bold;
+		margin:20px 0px 0px 820px;
+}
+.download-bottom{
+		font-size:25px;
+		font-weight:bolder;
+		margin:45px 0px 0px 940px;
+}

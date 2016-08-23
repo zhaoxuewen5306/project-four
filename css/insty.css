@@ -1,0 +1,4 @@
+body,div,li,p,h1,h2,h3,ol,img,ul{padding:0;margin:0}
+
+a:hover{color:red;}
+a{text-decoration:none;color:#eba465;}

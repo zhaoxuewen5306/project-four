@@ -1,0 +1,12 @@
+body,div,p,ul,li,ol,dl,dt,dd,a,img,input,table{padding:0;margin:0;}
+a{
+	text-decoration:none;color:#41001a;
+}
+body{
+	font-size:13px;background:white;font-family:"Î¢ÈíÑÅºÚ","Arial Narrow";
+}
+ul{
+	list-style:none;
+}
+a{text-decoration:none;color:#eba465;}
+a:hover{color:red;}

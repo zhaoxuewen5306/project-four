@@ -1,0 +1,196 @@
+@import url("insty.css");
+
+.container{
+	width:1200px;
+	height:2000px;
+	margin:0 auto;
+	border:1px  solid  white;
+}
+.nav{
+	height:100px;
+}
+.logo img{
+	width:100px;
+	height:100px;
+	float:left;
+	margin-left:100px;
+}
+.subnav	ul{
+	font-size:20px;
+	float:right;
+	text-align:center;
+	line-height:100px;
+	margin-right:50px;
+}
+.subnav ul li{
+	list-style:none;
+	display:inline-block;
+	padding:20px;
+}
+.banner{
+	height:619px;
+	background:url(../images/BG1.jpg);
+}
+.banner p{
+	text-indent:-2em;
+	font-size:30px;
+	position:relative;
+	top:200px;
+	left:600px;
+}
+.content{
+	font-size:40px;
+	color:#ce2100;
+	background:#8bb8cb;
+	clear:left;
+}
+.main{
+	font-size:40px;
+	font-family:"楷体";
+	color:white;
+	text-align:center;
+}
+.content-a{
+	width:285px;
+	float: left;
+	height:440px;
+	background:url(../images/BG5.jpg)
+}
+.content-x{
+	float:left;
+	
+}
+.content img{
+	float: left;
+	margin-right: -200px;	
+}
+.content-c{
+		width:307px;
+		float:right;
+		height:440px;
+		background:url(../images/bg7.jpg);
+}
+.content-x p{
+	text-align:center;
+	font-size:21px;
+}
+.icon{
+	float:left;
+}
+.text{
+	font-size:23px;
+	color:red;
+	text-indent:2em
+}
+.font ol{
+	font-size:20px;
+	text-indent:2em;	
+}
+.font ul li{
+	list-style:none;
+	
+}
+.footer{
+		width:1200px;	
+		height:300px;
+		background:#8bb8cb;
+		margin-top:40px;
+		}
+	
+	.footer-font{
+		color:#D200D2;
+		font-size:30px;
+		font-weight:bold;
+		text-align:center;
+		}
+	
+	.content-q{
+		color:red;
+		font-size:25px;
+		font-weight:bold;
+		margin:20px 0px 0px 100px;
+		}
+	
+	.people{
+		font-size:18px;
+		font-weight:bold;
+		margin-top:30px;
+		margin-left:80px;
+		line-height:25px;
+		}
+	.border{
+		border-bottom:2px solid black;
+		width:150px;
+		margin-left:80px;
+		}
+	
+	.tab{
+		font-size:18px;
+		font-weight:bold;
+		margin-left:80px;
+		line-height:25px;
+		}
+	.border-nav{
+		border-bottom:2px solid black;
+		width:150px;
+		margin-left:80px;
+		}
+	.msg{
+		font-size:18px;
+		font-weight:bold;
+		margin-left:80px;
+		line-height:25px;
+		}
+	
+	.service{
+		color:red;
+		font-size:25px;
+		font-weight:bold;
+		margin:-220px 0px 0px 450px;
+		}
+	
+	.service-search{
+		font-size:19px;
+		font-weight:bold;
+		margin:20px 0px 0px 450px;
+		}
+	
+	.service-form{
+		font-size:19px;
+		font-weight:bold;
+		margin:20px 0px 0px 450px;
+		}
+	
+	.service-label input{
+		margin:20px 0px 0px 450px;
+		}
+	
+	.service-button input{
+		margin:10px 0px 0px 450px;
+		}
+	
+	.banner-label input{
+		width:60px;
+		background:red;
+		margin:10px 0px 0px 630px;
+		text-align:center;
+		}
+	
+	.download{
+		color:red;
+		font-size:25px;
+		font-weight:bold;
+		margin:-235px 0px 0px 810px;
+		}
+	
+	.download-list{
+		font-size:19px;
+		font-weight:bold;
+		margin:20px 0px 0px 820px;
+		}
+	
+	.download-bottom{
+		font-size:25px;
+		font-weight:bold;
+		margin:45px 0px 0px 940px;
+		}
